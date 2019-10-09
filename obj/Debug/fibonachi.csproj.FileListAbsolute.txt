@@ -1,0 +1,7 @@
+C:\Users\Privatecrack\Documents\csharp\fibonachi\fibonachi\bin\Debug\fibonachi.exe.config
+C:\Users\Privatecrack\Documents\csharp\fibonachi\fibonachi\bin\Debug\fibonachi.exe
+C:\Users\Privatecrack\Documents\csharp\fibonachi\fibonachi\bin\Debug\fibonachi.pdb
+C:\Users\Privatecrack\Documents\csharp\fibonachi\fibonachi\obj\Debug\fibonachi.csprojAssemblyReference.cache
+C:\Users\Privatecrack\Documents\csharp\fibonachi\fibonachi\obj\Debug\fibonachi.csproj.CoreCompileInputs.cache
+C:\Users\Privatecrack\Documents\csharp\fibonachi\fibonachi\obj\Debug\fibonachi.exe
+C:\Users\Privatecrack\Documents\csharp\fibonachi\fibonachi\obj\Debug\fibonachi.pdb
